@@ -26,6 +26,7 @@
         <module>snailmall-shipping-service</module>
         <module>snailmall-keygen-service</module>
         <module>snailmall-order-service</module>
+		
     </modules>
 
     <properties>
